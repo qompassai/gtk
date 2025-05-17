@@ -1,3 +1,7 @@
+<!-- /qompassai/gtk/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
 <h1 align="center">Qompass AI GTK</h1>
 
 <h2 align="center">Qompass AI on GTK</h2>
@@ -6,10 +10,16 @@
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-gtk)
 
-  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
-  <br>
-  <a href="https://www.lua.org/docs.html"><img src="https://img.shields.io/badge/Lua-Documentation-blue?style=flat-square" alt="Lua Documentation"></a>
-  <a href="https://github.com/topics/lua-tutorial"><img src="https://img.shields.io/badge/Lua-Tutorials-green?style=flat-square" alt="Lua Tutorials"></a>
+  <a href="https://www.gtk.org/">
+  <img src="https://img.shields.io/badge/GTK-8BC34A?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK">
+</a>
+<br>
+<a href="https://docs.gtk.org/">
+  <img src="https://img.shields.io/badge/GTK-Documentation-blue?style=flat-square" alt="GTK Documentation">
+</a>
+<a href="https://github.com/topics/gtk-tutorial">
+  <img src="https://img.shields.io/badge/GTK-Tutorials-green?style=flat-square" alt="GTK Tutorials">
+</a>
   <br>
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
   <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
