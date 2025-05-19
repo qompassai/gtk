@@ -1,5 +1,5 @@
 #!/bin/bash
-# ~/.GH/Qompass/gtk/auto-extract.sh
+# /qompassai/gtk/auto-extract.sh
 # ---------------------------------
 # Copyright (C) 2025 Qompass AI, All rights reserved
 OK="$(tput setaf 2)[OK]$(tput sgr0)"
