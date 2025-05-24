@@ -9,6 +9,7 @@
 <p align="center">
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-gtk)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/gtk/total?style=flat-square)
 
   <a href="https://www.gtk.org/">
   <img src="https://img.shields.io/badge/GTK-8BC34A?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK">
